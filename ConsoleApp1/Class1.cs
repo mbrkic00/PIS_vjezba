@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         public static void Main()
         {
-            
+
+            void mojaMetodaZ()
+            {
+            }
         }
     }
 }
